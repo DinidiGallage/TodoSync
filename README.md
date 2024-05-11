@@ -1,6 +1,6 @@
-# todoSync
+# TodoSync
 
-todoSync is a task management app designed to help you organize your tasks efficiently. Built using Kotlin, SQLite database, and Android Studio, it provides a user-friendly interface for managing your daily tasks.
+TodoSync is a task management app designed to help you organize your tasks efficiently. Built using Kotlin, SQLite database, and Android Studio, it provides a user-friendly interface for managing your daily tasks.
 
 ## Features
 
