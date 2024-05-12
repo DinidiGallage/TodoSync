@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/poppins"
-        android:text="Tasks"
+        android:text="My Tasks"
         android:layout_marginStart="18dp"
         android:textColor="@color/purple"
         android:textSize="24dp"/>
